@@ -1,0 +1,9 @@
+{
+  "name": "irisai-landing",
+  "version": "1.0.0",
+  "description": "IrisAI Landing Page",
+  "dependencies": {
+    "nodemailer": "^6.9.8"
+  }
+}
+
