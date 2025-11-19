@@ -95,3 +95,5 @@ După ce ai adăugat Environment Variables, Vercel va face automat redeploy. Dac
 
 **NU** pune niciodată App Password în cod! Folosește întotdeauna Environment Variables în Vercel.
 
+
+
